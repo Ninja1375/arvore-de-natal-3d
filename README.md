@@ -136,4 +136,4 @@ Define o estilo da página:
 
 - Editor Online do Three.js
 
-- Live Server para Visual Studio Code
+- [Live Server para Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
