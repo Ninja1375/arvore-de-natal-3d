@@ -57,7 +57,7 @@ Define o estilo da página:
 ## 🎥 Pré-visualização
 
 ### Captura de Tela:
-(Adicione aqui uma imagem ou GIF mostrando o projeto em execução)
+(Em breve!)
 
 ---
 
@@ -72,7 +72,7 @@ Define o estilo da página:
    ```bash
    cd arvore-de-natal-3d
 
-3. Abra o arquivo index.html no seu navegador favorito:
+3. Abra o arquivo `index.html` no seu navegador favorito:
 
 Basta clicar duas vezes no arquivo.Ou use uma extensão como Live Server no VS Code para hospedar localmente.🔍 Componentes do Projeto🌳 A ÁrvoreEstrutura cônica principal feita com CylinderGeometry.Decorada com esferas e icosaedros, distribuídos aleatoriamente em sua superfície.✨ DecoraçõesEsferas brilhantes:Criadas com geometria de esfera.Materiais com cores aleatórias para cada instância.Ico-esferas:Criadas com geometria de icosaedro.Rotação aleatória para um efeito dinâmico.Elementos iluminados:Pequenas decorações que brilham periodicamente com efeitos de floramento.💡 IluminaçãoLuzes pontuais com variação de cor e intensidade.Uso de material reflexivo para criar um ambiente mais realista.📝 Texto AnimadoMensagem "Feliz Natal" criada com TextGeometry.Animação baseada em uma curva 3D com CatmullRomCurve3.🖥️ Requisitos
 
