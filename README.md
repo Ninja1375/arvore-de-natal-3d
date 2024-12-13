@@ -126,7 +126,7 @@ Define o estilo da página:
 
 ## 🙌 Créditos
 
-- Projeto desenvolvido utilizando a poderosa biblioteca `Three.js`.
+- Projeto desenvolvido utilizando a poderosa biblioteca [Three.js](https://threejs.org/).
 
 - Inspirado por exemplos criativos e inovadores de visualizações 3D.
 
