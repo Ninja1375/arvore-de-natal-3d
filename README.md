@@ -76,13 +76,13 @@ Define o estilo da página:
 
 - Basta clicar duas vezes no arquivo.
 
--Ou use uma extensão como [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) no VS Code para hospedar localmente.
+- Ou use uma extensão como [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) no VS Code para hospedar localmente.
 
 ## 🔍 Componentes do Projeto
 
 **🌳 A Árvore**
 
-- Estrutura cônica principal feita com CylinderGeometry.
+- Estrutura cônica principal feita com **CylinderGeometry**.
 
 - Decorada com esferas e icosaedros, distribuídos aleatoriamente em sua superfície.
 
@@ -108,9 +108,9 @@ Define o estilo da página:
 
 ## 📝 Texto Animado
 
-- Mensagem "Feliz Natal" criada com TextGeometry.
+- Mensagem "Feliz Natal" criada com **TextGeometry**.
 
-- Animação baseada em uma curva 3D com CatmullRomCurve3.
+- Animação baseada em uma curva 3D com **CatmullRomCurve3**.
 
 ## 🖥️ Requisitos
 
@@ -132,8 +132,8 @@ Define o estilo da página:
 
 ## 🔗 Links Úteis
 
-- Documentação do Three.js
+- [Documentação do Three.js](https://threejs.org/docs/)
 
 - Editor Online do Three.js
 
--Live Server para Visual Studio Code
+- Live Server para Visual Studio Code
