@@ -124,6 +124,8 @@ Define o estilo da página:
 
 ## 📄 Licença
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Ninja1375/arvore-de-natal-3d/blob/main/LICENSE)
+
 - Este projeto está licenciado sob a Licença MIT, permitindo uso, modificação e distribuição.
 
 ## 🙌 Créditos
