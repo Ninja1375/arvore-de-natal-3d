@@ -74,11 +74,43 @@ Define o estilo da página:
 
 3. Abra o arquivo `index.html` no seu navegador favorito:
 
-Basta clicar duas vezes no arquivo.Ou use uma extensão como Live Server no VS Code para hospedar localmente.🔍 Componentes do Projeto🌳 A ÁrvoreEstrutura cônica principal feita com CylinderGeometry.Decorada com esferas e icosaedros, distribuídos aleatoriamente em sua superfície.✨ DecoraçõesEsferas brilhantes:Criadas com geometria de esfera.Materiais com cores aleatórias para cada instância.Ico-esferas:Criadas com geometria de icosaedro.Rotação aleatória para um efeito dinâmico.Elementos iluminados:Pequenas decorações que brilham periodicamente com efeitos de floramento.💡 IluminaçãoLuzes pontuais com variação de cor e intensidade.Uso de material reflexivo para criar um ambiente mais realista.📝 Texto AnimadoMensagem "Feliz Natal" criada com TextGeometry.Animação baseada em uma curva 3D com CatmullRomCurve3.🖥️ Requisitos
+- Basta clicar duas vezes no arquivo.
 
-Para executar o projeto, você precisará de:
+-Ou use uma extensão como Live Server no VS Code para hospedar localmente.
 
-Um navegador moderno com suporte a WebGL (como Chrome, Firefox ou Edge).Conexão com a internet para carregar as dependências da CDN.📄 Licença
+## 🔍 Componentes do Projeto
+
+- 🌳 A Árvore
+
+- Estrutura cônica principal feita com CylinderGeometry.
+
+-Decorada com esferas e icosaedros, distribuídos aleatoriamente em sua superfície.
+
+## ✨ Decorações
+
+- Esferas brilhantes:
+
+- Criadas com geometria de esfera.
+
+- Materiais com cores aleatórias para cada instância.Ico-esferas:Criadas com geometria de icosaedro.Rotação aleatória para um efeito dinâmico.Elementos iluminados:Pequenas decorações que brilham periodicamente com efeitos de floramento.
+
+## 💡 Iluminação
+
+- Luzes pontuais com variação de cor e intensidade.
+
+- Uso de material reflexivo para criar um ambiente mais realista.
+
+## 📝 Texto Animado
+
+- Mensagem "Feliz Natal" criada com TextGeometry.
+
+- Animação baseada em uma curva 3D com CatmullRomCurve3.
+
+## 🖥️ Requisitos
+
+**Para executar o projeto, você precisará de:**
+
+- Um navegador moderno com suporte a WebGL (como Chrome, Firefox ou Edge).Conexão com a internet para carregar as dependências da CDN.📄 Licença
 
 Este projeto está licenciado sob a Licença MIT, permitindo uso, modificação e distribuição.
 
