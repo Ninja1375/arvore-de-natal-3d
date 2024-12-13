@@ -76,23 +76,29 @@ Define o estilo da página:
 
 - Basta clicar duas vezes no arquivo.
 
--Ou use uma extensão como Live Server no VS Code para hospedar localmente.
+-Ou use uma extensão como [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) no VS Code para hospedar localmente.
 
 ## 🔍 Componentes do Projeto
 
-- 🌳 A Árvore
+**🌳 A Árvore**
 
 - Estrutura cônica principal feita com CylinderGeometry.
 
--Decorada com esferas e icosaedros, distribuídos aleatoriamente em sua superfície.
+- Decorada com esferas e icosaedros, distribuídos aleatoriamente em sua superfície.
 
 ## ✨ Decorações
 
-- Esferas brilhantes:
+**Esferas brilhantes:**
 
 - Criadas com geometria de esfera.
 
-- Materiais com cores aleatórias para cada instância.Ico-esferas:Criadas com geometria de icosaedro.Rotação aleatória para um efeito dinâmico.Elementos iluminados:Pequenas decorações que brilham periodicamente com efeitos de floramento.
+- Materiais com cores aleatórias para cada instância.
+
+- **Ico-esferas:** Criadas com geometria de icosaedro.
+
+- Rotação aleatória para um efeito dinâmico.
+
+- **Elementos iluminados:** Pequenas decorações que brilham periodicamente com efeitos de floramento.
 
 ## 💡 Iluminação
 
@@ -110,14 +116,24 @@ Define o estilo da página:
 
 **Para executar o projeto, você precisará de:**
 
-- Um navegador moderno com suporte a WebGL (como Chrome, Firefox ou Edge).Conexão com a internet para carregar as dependências da CDN.📄 Licença
+- Um navegador moderno com suporte a WebGL (como Chrome, Firefox ou Edge).
 
-Este projeto está licenciado sob a Licença MIT, permitindo uso, modificação e distribuição.
+- Conexão com a internet para carregar as dependências da CDN.
 
-🙌 CréditosProjeto desenvolvido por [Seu Nome].Utilizando a poderosa biblioteca Three.js.Inspirado por exemplos criativos e inovadores de visualizações 3D.🔗 Links ÚteisDocumentação do Three.jsEditor Online do Three.jsLive Server para Visual Studio Code
+## 📄 Licença
 
-markdown
+- Este projeto está licenciado sob a Licença MIT, permitindo uso, modificação e distribuição.
 
-Copiar código
+## 🙌 Créditos
 
-### Alterações adicionadas: 1. Mais detalhes sobre as tecnologias utilizadas. 2. Explicação sobre os componentes principais da árvore. 3. Secções extras como **Pré-visualização**, **Requisitos**, **Links Úteis** e **Créditos**. Se precisar adicionar mais informações ou ajustar algo, basta pedir! 
+- Projeto desenvolvido utilizando a poderosa biblioteca `Three.js`.
+
+- Inspirado por exemplos criativos e inovadores de visualizações 3D.
+
+## 🔗 Links Úteis
+
+- Documentação do Three.js
+
+- Editor Online do Three.js
+
+-Live Server para Visual Studio Code
