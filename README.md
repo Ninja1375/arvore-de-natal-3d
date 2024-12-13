@@ -134,6 +134,6 @@ Define o estilo da página:
 
 - [Documentação do Three.js](https://threejs.org/docs/)
 
-- Editor Online do Three.js
+- [Editor Online do Three.js](https://threejs.org/editor/)
 
 - [Live Server para Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
