@@ -122,7 +122,7 @@ Define o estilo da página:
 
 **Para executar o projeto, você precisará de:**
 
-- Um navegador moderno com suporte a WebGL (como Chrome, Firefox ou Edge).
+- Um navegador moderno com suporte a **WebGL** (como Chrome, Firefox ou Edge).
 
 - Conexão com a internet para carregar as dependências da CDN.
 
