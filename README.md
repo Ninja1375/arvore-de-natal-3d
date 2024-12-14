@@ -63,7 +63,8 @@ Define o estilo da página:
 **[Árvore de Natal 3D](https://ninja1375.github.io/arvore-de-natal-3d/)**
 
 ### Captura de Tela:
-(Em breve!)
+
+![Árvore de Natal 3D ](https://github.com/user-attachments/assets/656dad4b-16b4-47cd-8f0a-bab14f3b9152)
 
 ---
 
